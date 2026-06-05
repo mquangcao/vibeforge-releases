@@ -1,85 +1,139 @@
-# 🚀 VibeForge - Hướng dẫn Cài đặt, Sử dụng & Gia hạn Toàn diện
+# 🚀 VibeForge — Hướng dẫn Cài đặt, Sử dụng & Gia hạn Toàn diện
 
-Chào mừng bạn đến với **VibeForge** - Công cụ tạo video hàng loạt bằng AI giúp tối ưu hóa quy trình làm nội dung TikTok Affiliate, Reels, Shorts đỉnh cao bằng cách đồng bộ hóa ảnh nhân vật và video chuyển động mẫu thông qua công nghệ của đám mây **Meitu/Roboneo**.
+Chào mừng bạn đến với **VibeForge** — công cụ tạo nội dung bằng AI giúp tối ưu hoá quy trình làm video TikTok Affiliate, Reels, Shorts. VibeForge tạo video, tạo & chỉnh sửa ảnh, làm nét ảnh/video, và clone video đối thủ — tất cả chạy trên đám mây **Roboneo/Meitu** nên máy bạn không bị nóng, không chiếm CPU/GPU.
 
----
-
-## 📥 1. Hướng Dẫn Tải & Cài Đặt (Installation Guide)
-
-1. **Tải phần mềm:**
-   * Tải bản phát hành mới nhất từ mục **Releases** trên GitHub (tệp dạng `.zip` hoặc installer `.exe`).
-2. **Giải nén & Cài đặt:**
-   * **Đối với bản Portable (.zip):** Giải nén tệp tin ra một thư mục riêng (Ví dụ: `D:\VibeForge`). Chạy tệp `VibeForge.exe` để khởi động phần mềm ngay lập tức.
-   * **Đối với bản Installer (.exe):** Double-click vào tệp để tiến hành cài đặt tự động vào máy tính của bạn.
-3. **Cấp quyền (Nếu có):**
-   * Nếu Windows Defender hoặc phần mềm diệt virus hiển thị cảnh báo chặn khởi chạy (do phần mềm chưa ký chứng chỉ số doanh nghiệp công khai), hãy nhấn **More Info** -> chọn **Run anyway** để tiếp tục.
+> 💡 **Mẹo vàng:** Toàn bộ chi phí render được tính bằng **cà rốt (credits)** trong tài khoản Roboneo. Mua tài khoản Roboneo **rẻ nhất thị trường** tại 👉 **[shopgiare.top](https://shopgiare.top)**.
 
 ---
 
-## 🔑 2. Hướng Dẫn Kích Hoạt & Gia Hạn Bản Quyền (License Key)
+## 📥 1. Tải & Cài đặt
 
-Để sử dụng đầy đủ các tính năng thông minh của VibeForge, bạn cần có mã kích hoạt (License Key) hợp lệ.
+1. **Tải phần mềm:** Tải bản mới nhất từ mục **Releases** trên GitHub (file installer `.exe`, ví dụ `vibeforge-setup-26.6.5.exe`).
+2. **Cài đặt:** Double-click file `.exe` để cài tự động. Phần mềm sẽ tạo shortcut ngoài Desktop.
+3. **Nếu Windows cảnh báo:** Khi Windows Defender / SmartScreen hiện cảnh báo (do app chưa mua chứng chỉ số doanh nghiệp), nhấn **More info → Run anyway** để tiếp tục.
+4. **Tự động cập nhật:** VibeForge tự kiểm tra và tải bản mới nhất khi khởi động. Khi có bản mới, bạn chỉ cần nhấn cập nhật — không phải tải lại thủ công.
 
-### 🛡️ Kích hoạt ứng dụng lần đầu:
-1. Khi mở ứng dụng lần đầu, giao diện chặn kích hoạt sẽ hiển thị yêu cầu nhập mã.
-2. Nhập mã License Key của bạn có định dạng: `XXXXX-XXXXX-XXXXX-XXXXX-XXXXX`.
-3. Nhấn **Kích hoạt** để hệ thống xác thực.
-
-### 💸 Gia hạn bản quyền:
-* **Gia hạn nhanh chóng:** Khi bản quyền sắp hết hạn (trong vòng 7 ngày) hoặc đã hết hạn, giao diện sẽ xuất hiện nút **"Liên hệ Zalo"** hoặc **"Gia hạn Zalo"**.
-* **Đường dây hỗ trợ trực tiếp:** 
-  * 📞 Click trực tiếp vào nút trên phần mềm hoặc truy cập: [https://zalo.me/0353435841](https://zalo.me/0353435841)
-  * Nhắn tin cho Admin để nhận tư vấn gia hạn hoặc cấp mã key mới siêu tốc.
+> ⚠️ **Quan trọng:** Hãy luôn dùng **bản mới nhất**. Các bản cũ sẽ không còn được hỗ trợ và có thể không kích hoạt được.
 
 ---
 
-## 🥕 3. Hướng Dẫn Mua & Cấu Hình Tài Khoản Roboneo
+## 🔑 2. Kích hoạt & Gia hạn Bản quyền (License Key)
 
-Để ứng dụng có thể render video thông qua cổng API đám mây, bạn cần chuẩn bị các tài khoản Roboneo có sẵn số dư **cà rốt (credits/carrots)**.
+### 🛡️ Kích hoạt lần đầu
+1. Mở app lần đầu, màn hình kích hoạt sẽ hiện ra.
+2. Nhập mã có dạng `XXXXX-XXXXX-XXXXX-XXXXX-XXXXX`.
+3. Nhấn **Kích hoạt**. Mỗi mã gắn với **một máy tính** — muốn đổi máy hãy liên hệ Admin để reset.
 
-### 🛒 Mua tài khoản Roboneo giá rẻ ở đâu?
-* Truy cập trang web uy tín hàng đầu: 🌍 **[shopgiare.top](https://shopgiare.top)**
-* Tại đây bạn có thể chọn mua các tài khoản Roboneo đã nạp sẵn cà rốt với giá siêu ưu đãi, phục vụ cho việc tạo video hàng loạt với chi phí rẻ nhất thị trường.
-
-### ⚙️ Cấu hình tài khoản vào VibeForge:
-1. Đi tới tab **Tài khoản** (Account) trên menu điều hướng bên trái.
-2. Nhấn **Thêm tài khoản** và điền thông tin:
-   * **Tài khoản:** Email đăng nhập của tài khoản Roboneo.
-   * **Mật khẩu:** Mật khẩu đi kèm.
-3. Nhấn **Lưu**, ứng dụng sẽ tự động kiểm tra trạng thái hoạt động và hiển thị số lượng cà rốt hiện có của tài khoản đó.
-4. **Bộ lọc thông minh:** Bạn có thể tích chọn lọc danh sách tài khoản sắp hết cà rốt (`< 72 cà rốt`) để chủ động nạp thêm hoặc đổi tài khoản.
+### 💸 Gia hạn
+* Khi key sắp hết hạn (trong 7 ngày) hoặc đã hết, app hiện nút **"Gia hạn / Liên hệ Zalo"**.
+* Liên hệ Admin: 📞 [https://zalo.me/0353435841](https://zalo.me/0353435841) để được cấp/gia hạn key siêu tốc.
 
 ---
 
-## 🎬 4. Hướng Dẫn Tạo Video Hàng Loạt (Motion Tab)
+## 🥕 3. Mua & Cấu hình Tài khoản Roboneo
 
-Tính năng chính **Motion** cho phép bạn tạo hàng loạt video chất lượng cao từ ảnh nhân vật tĩnh và video mẫu chuyển động.
+VibeForge render qua tài khoản Roboneo có sẵn **cà rốt**. Đây là phần quan trọng nhất để app chạy được.
 
-### Các bước thực hiện:
-1. **Truy cập tab Motion** từ menu điều hướng (Tên cũ là *Tạo hàng loạt*).
-2. **Cấu hình Video:**
-   * **Ảnh nhân vật:** Chọn ảnh đại diện nhân vật bạn muốn dùng làm mẫu (hỗ trợ JPG, PNG).
-   * **Video mẫu:** Chọn video nhảy, hành động mẫu mà bạn muốn nhân vật làm theo (MP4).
-   * **Thư mục đầu ra (Output):** Chọn thư mục trên máy tính để lưu video thành phẩm.
-3. **Cấu hình Model AI (Lựa chọn thông minh):**
-   * **Kling-3.0:** Chất lượng video đỉnh cao, chuyển động cực kỳ mượt mà. Tiêu tốn **206 cà rốt** cho mỗi video được tạo.
-   * **Kling-2.6:** Lựa chọn tiết kiệm chi phí nhưng chất lượng vẫn rất xuất sắc. Tiêu tốn **72 cà rốt** cho mỗi video được tạo.
-4. **Lời nhắc (Prompt):** Bạn có thể sử dụng các mẫu prompt có sẵn hoặc viết prompt tùy chỉnh để tăng độ chính xác cho nhân vật.
-5. **Nhấn Tạo video:** 
-   * Ứng dụng sẽ tự động tải ảnh và video lên máy chủ đám mây Meitu.
-   * Tiến trình chạy sẽ hiển thị vòng xoay mượt mà, máy tính của bạn hoàn toàn rảnh tay không bị nóng máy hay chiếm dụng CPU/GPU.
-   * Khi hoàn thành render (khoảng 6 - 10 phút tùy độ nghẽn máy chủ đám mây), video thành phẩm sẽ được **tự động tải về máy tính của bạn** dưới dạng file `.mp4`.
-   * Bạn chỉ việc click biểu tượng **Mở thư mục** cạnh video để thưởng thức tác phẩm!
+### 🛒 Mua tài khoản ở đâu? — RẺ NHẤT THỊ TRƯỜNG
+🌍 **[shopgiare.top](https://shopgiare.top)** — chuyên tài khoản Roboneo nạp sẵn cà rốt, **giá rẻ nhất thị trường**, giao ngay, phục vụ tạo nội dung hàng loạt với chi phí thấp nhất.
+
+> ✅ Để app hoạt động ổn định và tránh lỗi đăng nhập, **chỉ dùng tài khoản mua tại [shopgiare.top](https://shopgiare.top)**. Tài khoản mua nơi khác có thể không đăng nhập được trên phần mềm.
+
+### ⚙️ Thêm tài khoản vào app
+1. Mở tab **Tài khoản (Accounts)** ở menu trái.
+2. Nhấn **Thêm tài khoản** → nhập **Email** + **Mật khẩu** tài khoản Roboneo (có thể dán hàng loạt nhiều dòng).
+3. Nhấn **Lưu**. App tự kiểm tra trạng thái và hiển thị số cà rốt còn lại của từng tài khoản.
+4. **Mẹo:** Lọc nhanh các tài khoản sắp hết cà rốt để chủ động nạp thêm hoặc thay tài khoản.
+
+> 💡 **App tự chia việc thông minh:** khi tạo nhiều video cùng lúc, app tự động phân bổ job sang các tài khoản đủ cà rốt và chạy song song — càng nhiều tài khoản, càng nhiều luồng chạy đồng thời, càng nhanh.
 
 ---
 
-## ❓ 5. Các Lỗi Thường Gặp & Cách Khắc Phục (Troubleshooting)
+## 🎬 4. Tab Motion — Tạo Video Hàng Loạt
 
-| Lỗi | Nguyên nhân | Giải pháp |
+Tạo video chất lượng cao từ **ảnh nhân vật tĩnh** + **video mẫu chuyển động**.
+
+1. Mở tab **Motion**.
+2. Chọn **Ảnh nhân vật** (JPG/PNG), **Video mẫu** (MP4) và **Thư mục lưu**.
+3. Chọn **Model AI**:
+   * **Kling 3.0** — chất lượng đỉnh, mượt nhất. **206 cà rốt/video**.
+   * **Kling 2.6** — tiết kiệm, chất lượng vẫn rất tốt. **72 cà rốt/video**.
+4. (Tuỳ chọn) Viết **Prompt** riêng hoặc dùng mẫu có sẵn.
+5. Nhấn **Tạo video**. App tải lên đám mây, render khoảng **6–10 phút/video**, rồi **tự tải file `.mp4` về** thư mục đã chọn.
+
+---
+
+## 🖼️ 5. Tab Tạo Ảnh (Image Gen) — 2 chế độ
+
+Tab Tạo Ảnh chia làm 2 chế độ ở phía trên:
+
+### ✏️ Edit Image (mặc định) — Sửa nhiều ảnh cùng lúc
+* **Mỗi ảnh tải lên = 1 dòng (row) riêng**, có ô nhập prompt riêng cho từng ảnh.
+* Có thể thêm nhiều ảnh vào một dòng (giống GPT cho nhiều ảnh tham chiếu).
+* **Ô nhập prompt hàng loạt ở trên cùng:** dán nhiều prompt (mỗi dòng 1 prompt) rồi nhấn **Phối prompt** để rải tự động xuống từng dòng ảnh bên dưới.
+* Tỉ lệ mặc định **9:16** (chuẩn dọc TikTok/Reels).
+* Mỗi dòng = 1 ảnh kết quả. Ảnh lưu trong thư mục con `image/edit/`.
+
+### 📝 Text to Image — Tạo ảnh từ chữ
+* Nhập nhiều prompt, **mỗi dòng 1 prompt**.
+* Chọn **số ảnh mỗi prompt**. Ví dụ: 2 prompt × 3 ảnh = 6 ảnh.
+* Ảnh lưu trong thư mục con `image/text/`.
+
+> 🥕 Tạo/chỉnh ảnh thường tốn khoảng **10 cà rốt/ảnh** (tuỳ model).
+
+---
+
+## ✨ 6. Tab Làm Nét (Enhance) — Làm nét & khử nhiễu hàng loạt
+
+Nâng cấp chất lượng **ảnh và video** đã có sẵn.
+
+1. Mở tab **Làm nét (Enhance)**.
+2. Kéo thả (hoặc chọn) **nhiều ảnh** và/hoặc **nhiều video** vào 2 khu vực tương ứng.
+3. Với ảnh, chọn thao tác:
+   * **Khử nhiễu (Denoise)** — xoá hạt/nhiễu.
+   * **Làm nét (Enhance)** — tăng độ sắc nét, chi tiết.
+   * Có thể **bật cả hai** (app chạy khử nhiễu trước, rồi làm nét).
+4. Với video: **Làm nét HD**.
+5. Nhấn chạy. Kết quả lưu gọn vào thư mục con: ảnh → `enhance/image/`, video → `enhance/video/`.
+
+> 🥕 Làm nét/khử nhiễu ảnh ~**3 cà rốt/thao tác**; làm nét video HD ~**15 cà rốt/video**.
+
+---
+
+## 👯 7. Tab Clone Video — Nhân bản video đối thủ
+
+Lấy video đối thủ làm mẫu và thay bằng nhân vật của bạn.
+
+1. Mở tab **Clone Video**, dán **link video đối thủ** (hoặc link kênh để lấy nhiều video).
+2. **Bước nhân vật & nền:**
+   * **Ảnh mẫu (bắt buộc):** ảnh nhân vật của bạn.
+   * **Ảnh nền (tuỳ chọn):**
+     * Không chọn nền → giữ nguyên nền của ảnh mẫu.
+     * Có chọn nền → đặt nhân vật vào nền mới (app tự hoà sáng, đổ bóng, cân màu cho tự nhiên).
+3. **Chế độ tạo:**
+   * **Tự động** — chạy thẳng từ ghép ảnh đến ra video, không cần duyệt.
+   * **Thủ công** — tạo ảnh ghép trước để bạn **duyệt**, ưng rồi mới tạo video.
+4. **Cài đặt nâng cao (nút bên cạnh "Cấu hình"):**
+   * **Tự khắc phục khi ảnh lỗi (20001)** — *mặc định BẬT*. Khi tạo ảnh dính lỗi nội dung/hệ thống "20001", app tự chạy quy trình khắc phục nhiều bước để vẫn ra ảnh dùng được, thay vì để job thất bại. Tốn thêm vài cà rốt nhưng ít video bị lỗi hơn nhiều. Tắt đi nếu muốn tiết kiệm tối đa (lỗi 20001 sẽ làm job dừng ngay).
+
+---
+
+## ❓ 8. Lỗi Thường Gặp & Cách Khắc Phục
+
+| Lỗi | Nguyên nhân | Cách xử lý |
 |---|---|---|
-| 🔴 **System Busy** (Hệ thống bận) | Máy chủ đám mây của Meitu bị quá tải vào giờ cao điểm do quá nhiều người tạo cùng lúc. | Chờ từ **1 - 3 phút** rồi nhấn nút **Chạy lại (Retry)**. Ứng dụng có tích hợp cơ chế thử lại tự động nên bạn hãy kiên nhẫn một chút nhé. |
-| 🥕 **Không đủ cà rốt** | Tài khoản Roboneo được chỉ định có số dư cà rốt thấp hơn mức yêu cầu của model (206 hoặc 72). | Truy cập **[shopgiare.top](https://shopgiare.top)** để mua thêm tài khoản mới hoặc đổi tài khoản khác có nhiều cà rốt hơn trong tab Tài khoản. |
-| 🌐 **Lỗi kết nối / Đỏ lòm** | Mạng Internet nội bộ bị gián đoạn hoặc API đám mây đang bảo trì. | Kiểm tra lại kết nối mạng của bạn hoặc thử lại sau ít phút. |
+| 🔴 **System Busy / Lỗi 20001** | Máy chủ Roboneo quá tải giờ cao điểm, hoặc nội dung bị bộ lọc của Roboneo chặn. | App tự thử lại + đổi tài khoản/IP. Chờ **1–3 phút** rồi **Chạy lại** nếu cần. Với Clone, bật "Tự khắc phục khi ảnh lỗi" để app tự xử lý. |
+| 🥕 **Không đủ cà rốt** | Tài khoản Roboneo còn ít cà rốt hơn mức cần (206 / 72 / 10 / 3 tuỳ chức năng). | Mua thêm tài khoản tại **[shopgiare.top](https://shopgiare.top)** hoặc đổi sang tài khoản nhiều cà rốt hơn. App tự chia nhỏ chi phí qua nhiều tài khoản khi có thể. |
+| 🔑 **Đăng nhập thất bại** | Tài khoản không hợp lệ, hết hạn, hoặc không mua từ nguồn được hỗ trợ. | Dùng tài khoản mua tại **[shopgiare.top](https://shopgiare.top)** để đảm bảo đăng nhập được. |
+| ⏫ **Yêu cầu cập nhật (Upgrade Required)** | Bạn đang dùng bản app cũ. | Cập nhật lên bản mới nhất (app tự nhắc khi mở), hoặc tải lại từ Releases. |
+| 🌐 **Lỗi kết nối** | Mạng gián đoạn hoặc API đang bảo trì. | Kiểm tra mạng, thử lại sau ít phút. |
 
 ---
-*Chúc bạn có những trải nghiệm tuyệt vời cùng **VibeForge** và bùng nổ doanh số TikTok Affiliate!*
+
+## 📞 9. Hỗ trợ
+
+* 🛒 Mua tài khoản Roboneo giá rẻ nhất: **[shopgiare.top](https://shopgiare.top)**
+* 💬 Hỗ trợ / gia hạn key (Zalo): [https://zalo.me/0353435841](https://zalo.me/0353435841)
+
+---
+*Chúc bạn bùng nổ doanh số cùng **VibeForge**! 🚀*
