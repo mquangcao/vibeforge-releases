@@ -2,7 +2,7 @@
 
 Chào mừng bạn đến với **VibeForge** — công cụ tạo nội dung bằng AI giúp tối ưu hoá quy trình làm video TikTok Affiliate, Reels, Shorts. VibeForge tạo video, tạo & chỉnh sửa ảnh, làm nét ảnh/video, và clone video đối thủ — tất cả chạy trên đám mây **Roboneo/Meitu** nên máy bạn không bị nóng, không chiếm CPU/GPU.
 
-> 💡 **Mẹo vàng:** Toàn bộ chi phí render được tính bằng **cà rốt (credits)** trong tài khoản Roboneo. Mua tài khoản Roboneo **rẻ nhất thị trường** tại 👉 **[shopgiare.top](https://shopgiare.top)**.
+> 💡 **Mẹo vàng:** Toàn bộ chi phí render được tính bằng **cà rốt (credits)** trong tài khoản Roboneo.
 
 ---
 
@@ -25,19 +25,19 @@ Chào mừng bạn đến với **VibeForge** — công cụ tạo nội dung b�
 3. Nhấn **Kích hoạt**. Mỗi mã gắn với **một máy tính** — muốn đổi máy hãy liên hệ Admin để reset.
 
 ### 💸 Gia hạn
-* Khi key sắp hết hạn (trong 7 ngày) hoặc đã hết, app hiện nút **"Gia hạn / Liên hệ Zalo"**.
-* Liên hệ Admin: 📞 [https://zalo.me/0353435841](https://zalo.me/0353435841) để được cấp/gia hạn key siêu tốc.
+* Khi key sắp hết hạn (trong 7 ngày) hoặc đã hết, app hiện nút **"Liên hệ Admin"**.
+* Liên hệ Admin của bạn để được cấp hoặc gia hạn key.
 
 ---
 
-## 🥕 3. Mua & Cấu hình Tài khoản Roboneo
+## 🥕 3. Cấu hình Tài khoản Roboneo
 
 VibeForge render qua tài khoản Roboneo có sẵn **cà rốt**. Đây là phần quan trọng nhất để app chạy được.
 
-### 🛒 Mua tài khoản ở đâu? — RẺ NHẤT THỊ TRƯỜNG
-🌍 **[shopgiare.top](https://shopgiare.top)** — chuyên tài khoản Roboneo nạp sẵn cà rốt, **giá rẻ nhất thị trường**, giao ngay, phục vụ tạo nội dung hàng loạt với chi phí thấp nhất.
+### 🛒 Cấu hình tài khoản
+Vui lòng sử dụng các tài khoản Roboneo hợp lệ đã nạp sẵn cà rốt để phục vụ tạo nội dung.
 
-> ✅ Để app hoạt động ổn định và tránh lỗi đăng nhập, **chỉ dùng tài khoản mua tại [shopgiare.top](https://shopgiare.top)**. Tài khoản mua nơi khác có thể không đăng nhập được trên phần mềm.
+> ✅ Để app hoạt động ổn định và tránh lỗi đăng nhập, hãy đảm bảo tài khoản của bạn hoạt động bình thường trên hệ thống.
 
 ### ⚙️ Thêm tài khoản vào app
 1. Mở tab **Tài khoản (Accounts)** ở menu trái.
@@ -123,8 +123,8 @@ Lấy video đối thủ làm mẫu và thay bằng nhân vật của bạn.
 | Lỗi | Nguyên nhân | Cách xử lý |
 |---|---|---|
 | 🔴 **System Busy / Lỗi 20001** | Máy chủ Roboneo quá tải giờ cao điểm, hoặc nội dung bị bộ lọc của Roboneo chặn. | App tự thử lại + đổi tài khoản/IP. Chờ **1–3 phút** rồi **Chạy lại** nếu cần. Với Clone, bật "Tự khắc phục khi ảnh lỗi" để app tự xử lý. |
-| 🥕 **Không đủ cà rốt** | Tài khoản Roboneo còn ít cà rốt hơn mức cần (206 / 72 / 10 / 3 tuỳ chức năng). | Mua thêm tài khoản tại **[shopgiare.top](https://shopgiare.top)** hoặc đổi sang tài khoản nhiều cà rốt hơn. App tự chia nhỏ chi phí qua nhiều tài khoản khi có thể. |
-| 🔑 **Đăng nhập thất bại** | Tài khoản không hợp lệ, hết hạn, hoặc không mua từ nguồn được hỗ trợ. | Dùng tài khoản mua tại **[shopgiare.top](https://shopgiare.top)** để đảm bảo đăng nhập được. |
+| 🥕 **Không đủ cà rốt** | Tài khoản Roboneo còn ít cà rốt hơn mức cần (206 / 72 / 10 / 3 tuỳ chức năng). | Đổi sang tài khoản nhiều cà rốt hơn hoặc nạp thêm cà rốt. App tự chia nhỏ chi phí qua nhiều tài khoản khi có thể. |
+| 🔑 **Đăng nhập thất bại** | Tài khoản không hợp lệ, hết hạn, hoặc không được hỗ trợ. | Đảm bảo thông tin đăng nhập chính xác và tài khoản hoạt động bình thường. |
 | ⏫ **Yêu cầu cập nhật (Upgrade Required)** | Bạn đang dùng bản app cũ. | Cập nhật lên bản mới nhất (app tự nhắc khi mở), hoặc tải lại từ Releases. |
 | 🌐 **Lỗi kết nối** | Mạng gián đoạn hoặc API đang bảo trì. | Kiểm tra mạng, thử lại sau ít phút. |
 
@@ -132,8 +132,8 @@ Lấy video đối thủ làm mẫu và thay bằng nhân vật của bạn.
 
 ## 📞 9. Hỗ trợ
 
-* 🛒 Mua tài khoản Roboneo giá rẻ nhất: **[shopgiare.top](https://shopgiare.top)**
-* 💬 Hỗ trợ / gia hạn key (Zalo): [https://zalo.me/0353435841](https://zalo.me/0353435841)
+* 🛒 Mua hoặc gia hạn tài khoản Roboneo: Liên hệ Admin của bạn.
+* 💬 Hỗ trợ / gia hạn key: Liên hệ Admin của bạn.
 
 ---
 *Chúc bạn bùng nổ doanh số cùng **VibeForge**! 🚀*
